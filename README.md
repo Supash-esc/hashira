@@ -29,5 +29,3 @@ We’ll also cover how to install **Postman** and use it to test the API.
 4. Import into **IntelliJ IDEA** or **VS Code**.
 
 
-## 3. Project Structure
-
